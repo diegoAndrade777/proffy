@@ -9,9 +9,11 @@
   <a aria-label="ReactJs version" href="https://github.com/facebook/react/blob/master/CHANGELOG.md#16120-november-14-2019">
     <img src="https://img.shields.io/badge/react-16.12.0-informational?logo=react"></img>
   </a>
-
-  <img src="web/src/assets/images/construcao.gif" align="center"></img>
 </p>
+<h1 align="center">
+  <img src="web/src/assets/images/construcao.gif"></img>
+  Work in progress...
+</h1>
 
 ## Instalation
 To install the dependencies and to execute the **Frontend**, clone the project on your computer an execute:
