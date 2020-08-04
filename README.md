@@ -1,4 +1,4 @@
-<img src="src/assets/images/nextlevelweek2.png" align="center"></img>
+<img src="web/src/assets/images/nextlevelweek2.png" align="center"></img>
 <h1 align="center">Next Level Week II</h1>
 <p align="center">Project <strong>Proffy</strong> developed during the Rocketseat Next Level Week II</p>
 
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/react-16.12.0-informational?logo=react"></img>
   </a>
 
-  <img src="src/assets/images/frontend.png" align="center"></img>
+  <img src="web/src/assets/images/frontend.png" align="center"></img>
 </p>
 
 ## Instalation
@@ -23,7 +23,7 @@ yarn start
 
 ## Frontend
 
-<img align="center" src="./images/frontend.gif"></img>
+<img align="center" src="web/src/assets/images/frontend.gif"></img>
 
 To run the React's **Frontend** use:
 ```bash
