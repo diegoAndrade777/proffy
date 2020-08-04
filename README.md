@@ -12,7 +12,7 @@
 </p>
 <h1 align="center">
   <img src="web/src/assets/images/construcao.gif"></img>
-  Work in progress...
+  <p align="center"> <strong>Work in progress...</strong> </p>
 </h1>
 
 ## Instalation
