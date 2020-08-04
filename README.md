@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/react-16.12.0-informational?logo=react"></img>
   </a>
 
-  <img src="web/src/assets/images/frontend.png" align="center"></img>
+  <img src="web/src/assets/images/construcao.gif" align="center"></img>
 </p>
 
 ## Instalation
