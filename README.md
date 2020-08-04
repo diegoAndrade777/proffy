@@ -23,7 +23,7 @@ yarn start
 
 ## Frontend
 
-<img align="center" src="./images/frontend.gif"></img>
+<img align="center" src="web/src/assets/images/frontend.gif"></img>
 
 To run the React's **Frontend** use:
 ```bash
