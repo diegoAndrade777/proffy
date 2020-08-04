@@ -1,6 +1,9 @@
 <img src="web/src/assets/images/nextlevelweek2.png" align="center"></img>
 <h1 align="center">Next Level Week II</h1>
-<p align="center">Project <strong>Proffy</strong> developed during the Rocketseat Next Level Week II</p>
+<p align="center">Project <strong>Proffy</strong> developed during the Rocketseat Next Level Week II.
+  <br/>
+  The project consists of teachers offering classes to students, in the most diverse disciplines. The student has information about the teacher's price, contact details and contracts for his services.
+</p>
 
 <p align="center">
   <a aria-label="NodeJs version" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
