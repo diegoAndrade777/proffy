@@ -39,7 +39,7 @@ $ yarn start
 
 ## Backend
 
-<img align="center" src="web/src/assets/backend.gif" width="600px"></img>
+<img align="center" src="web/src/assets/images/backend.gif" width="600px"></img>
 
 ## Frontend
 
