@@ -45,10 +45,16 @@ $ yarn start
 
 <img align="center" src="web/src/assets/images/frontend.gif"></img>
 
-To run the React's **Frontend** use:
+To run the React's Frontend use:
 ```bash
-cd web
-yarn start
+# Enter on frontend directory
+$ cd web
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
 ```
 When the process end, automatically will open the page `localhost:3000` on your web browser with de Project Proffy.
 
