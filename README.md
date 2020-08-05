@@ -18,12 +18,28 @@
   <p align="center"> <strong>Work in progress...</strong> </p>
 </h1>
 
+
 ## Instalation
-To install the dependencies and to execute the **Frontend**, clone the project on your computer an execute:
+To install the dependencies and to execute the **Backend**, clone the project on your computer an execute:
 ```bash
-cd web
-yarn install
-yarn start
+# Enter on backend directory
+$ cd server
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn knex:migrate
+
+# Start server
+$ yarn start
+
+# running on port 3333
+```
+
+## Backend
+
+<img align="center" src="web/src/assets/backend.gif" width="600px"></img>
 ```
 
 ## Frontend
