@@ -62,6 +62,9 @@ When the process end, automatically will open the page `localhost:3000` on your 
 
 To run the Mobile app, use:
 ```bash
+# Don't execute the following line if tou have the Expo (CLI) already intalled! 
+yarn global add install expo-cli
+
 # Enter on mobile directory
 $ cd mobile
 
