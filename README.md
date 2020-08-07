@@ -76,7 +76,7 @@ $ yarn start
 
 # Expo will open, just scan the qrcode on terminal or expo page
 ```
-<img align="center" src="web/src/assets/image/mobile.gif" width="300px"></img>
+<img align="center" src="web/src/assets/images/mobile.gif" width="300px"></img>
 
 Check the application deployed at Vercel here:    
 https://diego-proffy.vercel.app/
