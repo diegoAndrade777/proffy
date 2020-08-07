@@ -58,6 +58,23 @@ $ yarn start
 ```
 When the process end, automatically will open the page `localhost:3000` on your web browser with de Project Proffy.
 
+## Mobile
+
+To run the Mobile app, use:
+```bash
+# Enter on mobile directory
+$ cd mobile
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# Expo will open, just scan the qrcode on terminal or expo page
+```
+<img align="center" src="web/src/assets/image/mobile.gif" width="300px"></img>
+
 Check the application deployed at Vercel here:    
 https://diego-proffy.vercel.app/
 
