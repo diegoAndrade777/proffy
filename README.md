@@ -80,9 +80,6 @@ $ yarn start
 ```
 <img align="center" src="web/src/assets/images/mobile.gif" width="300px"></img>
 
-Check the application deployed at Vercel here:    
-https://diego-proffy.vercel.app/
-
 ## Licence
 
 [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
