@@ -2,7 +2,7 @@
 <h1 align="center">Next Level Week II</h1>
 <p align="center">Project <strong>Proffy</strong> developed during the Rocketseat Next Level Week II.
   <br/>
-  The project consists of teachers offering classes to students, in the most diverse disciplines. The student has information about the teacher's price, contact details and contracts for his services.
+  The project consists of teachers offering classes to students, in the most diverse disciplines. The student has information about the teacher's price, contact details and contracts for their services.
 </p>
 
 <p align="center">
